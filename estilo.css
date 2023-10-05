@@ -140,7 +140,7 @@ ul{
     }
 
     .trailer{
-        background-image: url(imagens/fundo_header.png);
+        background-image: url(https://raw.githubusercontent.com/sarahliol16/desafio-normalize/main/fundo_header.png);
         background-position :center top;
         background-repeat :no-repeat;
         background-color :initial;
